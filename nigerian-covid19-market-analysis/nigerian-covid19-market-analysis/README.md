@@ -130,7 +130,7 @@ Cleaned sample sizes: NGX 2,208; USD/NGN 2,326; Brent 2,283; bond dates with all
 * Commit messages use the imperative mood with a short summary line (for example `Add out-of-sample HMM validation`), followed by a body when the reason is not obvious.
 * Each commit contains one logical change; large data or result files are not committed except the four input CSVs.
 * Group members push to feature branches (`feature/<topic>`) and merge into `main` through pull requests.
-* The repository is private. Group members have write access; the instructor and reviewers have read-only access.
+
 
 ## Authors
 
