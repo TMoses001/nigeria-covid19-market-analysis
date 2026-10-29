@@ -1,0 +1,29 @@
+{
+  "start_date": "2017-01-01",
+  "end_date": "2025-12-31",
+  "periods": {
+    "Pre-COVID": [
+      "2017-01-01",
+      "2020-02-26"
+    ],
+    "COVID": [
+      "2020-02-27",
+      "2021-12-31"
+    ],
+    "Post-COVID": [
+      "2022-01-01",
+      "2025-12-31"
+    ]
+  },
+  "naira_float_date": "2023-06-14",
+  "n_restarts": 10,
+  "fwd_window": 20,
+  "rolling_window": 20,
+  "hmm_random_state": 42,
+  "bond_columns": [
+    "Nigeria_2Y_Bond_Yield",
+    "Nigeria_5Y_Bond_Yield",
+    "Nigeria_10Y_Bond_Yield",
+    "Nigeria_20Y_Bond_Yield"
+  ]
+}
